@@ -3,7 +3,7 @@ SIMPLELOGGER is simple and powerful Python keylogger that is able to log keystro
 
 ### Installation
 1. Clone it:
-`git clone https://github.com/D4Vinci/PyLoggy.git `
+`git clone https://github.com/D4Vinci/simplelogger.git `
 
 2. Run it:
    keylogger.py`
